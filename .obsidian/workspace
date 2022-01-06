@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "3e5b662308fef8a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "861b7dc572fea173",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47ee228abc9326c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1cbdac28409832c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f63e7ee6d4607827",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eda716a95e8bf31d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "right": {
+    "id": "8b6393f409cb07fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "55d8a56ec9c0eb13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc3e4bf7b987bdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "861b7dc572fea173",
+  "lastOpenFiles": [
+    "typescript summary.md"
+  ]
+}

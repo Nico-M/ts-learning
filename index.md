@@ -20,8 +20,6 @@
 
 
 
-
-
 ---
 
 
@@ -32,4 +30,11 @@
 <div alt="fig">
 <a href="https://github.com/Nico-M?tab=repositories" target="_blank" alt="null"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
 </div>
+
+---
+
+
+
+[^1]: [ Nico酱的小站](https://nico-m.github.io/)  
+[^2]: [Nico's Notes](https://nico-m.github.io/chore_blog/)
 

@@ -22,8 +22,6 @@
 
 ---
 
-
-
 <p alt="center"><a alt="null" href="./index"><span alt="mt-icon">home</span></a> <p>
 
 
@@ -33,8 +31,5 @@
 
 ---
 
-
-
-[^1]: [ Nico酱的小站](https://nico-m.github.io/)  
-[^2]: [Nico's Notes](https://nico-m.github.io/chore_blog/)
+<div alt="fig"> <a href="https://nico-m.github.io/">Nico酱的小站</a> <a href="https://nico-m.github.io/chore_blog/">Nico's Notes</a> </div>
 

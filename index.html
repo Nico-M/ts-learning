@@ -5,6 +5,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"> 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> 
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="./common.css">
 <style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
@@ -228,15 +229,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 /* vietnamese */
 /* latin-ext */
 /* latin */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 600;
-  src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'),
-    url('file:///Users/nico/Library/Application%20Support/abnerworks.Typora/themes/source/zj/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F,
-    U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}@import '';
+@import '';
 @import '';
 
 
@@ -1781,6 +1774,26 @@ kbd {
     background: var(--bg-color);
     color: var(--body-color);
     border-radius: 5px;
+}
+
+#write span[alt='mt-icon']{
+    font-family: 'Material Icons' !important;
+}
+
+span [alt='mt-icon'] {
+    font-family: 'Material Icons' !important;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }@import url();
 
 :root {
@@ -1844,20 +1857,23 @@ kbd {
 </style><title>index</title>
 </head>
 <body class='typora-export'><div class='typora-export-content'>
-<div id='write'  class=''><h1 id='agenda'><span>Agenda</span></h1><blockquote><p><span> Typescript Tutorial Serial</span></p></blockquote><div alt="timeline">
+<div id='write'  class=''><h1 id='agenda'><span>Agenda</span></h1><blockquote><p><span>Typescript Tutorial Serial</span></p></blockquote><div alt="timeline">
     <div alt="timenode">
-        <div alt="meta">2022.01 ~ 2022.02 <a href="./ts_type_annotation">TS: TYPE ANNOTATION</a></div>
+        <div alt="meta">2022.01 ~ 2022.02 <a href="./ts_type_annotation">TS: 类型注释</a></div>
         <div alt="body">
             人言落日是天涯，望极天涯不见家。
             已恨碧山相阻隔，碧山还被暮云遮。
         </div>
     </div>
     <div alt="timenode">
-        <div alt="meta">2021.11 ~ 2021.12 <a href="./typescript_summary">TS Learning</a></div>
+        <div alt="meta">2021.11 ~ 2021.12 <a href="./typescript_summary">TS 集锦</a></div>
         <div alt="body">
             Start review ts...
         </div>
     </div>
-</div></div></div>
-</body>
+</div><p>&nbsp;</p><p>&nbsp;</p><hr /><p>&nbsp;</p><p alt="center"><a alt="null" href="./index"><span alt="mt-icon">home</span></a> </p><p></p><div alt="fig">
+<a href="https://github.com/Nico-M?tab=repositories" target="_blank" alt="null"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github"></a>
+</div><p>&nbsp;</p></div></div>
+
+<script>(function (){var t=document.body.parentElement,e=[],n=null,i=document.body.classList.contains("typora-export-collapse-outline"),r=function(t,e,n){document.addEventListener(t,function(t){if(!t.defaultPrevented)for(var i=t.target;i&&i!=this;i=i.parentNode)if(i.matches(e)){!1===n.call(i,t)&&(t.preventDefault(),t.stopPropagation());break}},!1)};function o(){return t.scrollTop}r("click",".outline-expander",function(t){var e=this.closest(".outline-item-wrapper").classList;return e.contains("outline-item-open")?e.remove("outline-item-open"):e.add("outline-item-open"),c(),!1}),r("click",".outline-item",function(t){var e=this.querySelector(".outline-label");if(location.hash="#"+e.getAttribute("href"),i){var n=this.closest(".outline-item-wrapper").classList;n.contains("outline-item-open")||n.add("outline-item-open"),l(),n.add("outline-item-active")}});var a,s,u=function(){var t=o();n=null;for(var i=0;i<e.length&&e[i][1]-t<60;i++)n=e[i]},l=function(){document.querySelectorAll(".outline-item-active").forEach(t=>t.classList.remove("outline-item-active")),document.querySelectorAll(".outline-item-single.outline-item-open").forEach(t=>t.classList.remove("outline-item-open"))},c=function(){if(n){l();var t=document.querySelector('.outline-label[href="#'+(CSS.escape?CSS.escape(n[0]):n[0])+'"]');if(t)if(i){var e=t.closest(".outline-item-open>ul>.outline-item-wrapper");if(e)e.classList.add("outline-item-active");else{for(var r=(t=t.closest(".outline-item-wrapper")).parentElement.closest(".outline-item-wrapper");r;)r=(t=r).parentElement.closest(".outline-item-wrapper");t.classList.add("outline-item-active")}}else t.closest(".outline-item-wrapper").classList.add("outline-item-active")}};window.addEventListener("scroll",function(t){a&&clearTimeout(a),a=setTimeout(function(){u(),c()},300)});var f=function(){s=setTimeout(function(){!function(){e=[];var t=o();document.querySelector("#write").querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(n=>{var i=n.getAttribute("id");e.push([i,t+n.getBoundingClientRect().y])})}(),u(),c()},300)};window.addEventListener("resize",function(t){s&&clearTimeout(s),f()}),f()})();</script></body>
 </html>

@@ -1,3 +1,5 @@
+## TS 集锦
+
 1. 使用时遇到字面量
 
    ```typescript
@@ -82,4 +84,17 @@
    ```
 
    
+
+
+
+---
+
+
+
+<p alt="center"><a alt="null" href="./index"><span alt="mt-icon">home</span></a> <p>
+
+
+<div alt="fig">
+<a href="https://github.com/Nico-M?tab=repositories" target="_blank" alt="null"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+</div>
 

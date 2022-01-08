@@ -2,6 +2,10 @@
 
 >  一些琐碎的记录
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1368754688&auto=1&height=66">
+</iframe>
+
+
 <div alt="timeline">
   <div alt="timenode">
         <div alt="meta">2022.01.08 <a href="./ts_number">TS: 数字</a></div>
@@ -23,6 +27,7 @@
         </div>
     </div>
 </div>
+
 
 
 

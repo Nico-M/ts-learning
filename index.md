@@ -1,10 +1,16 @@
-# Agenda
+# 日程
 
->  Typescript Tutorial Serial
+>  一些琐碎的记录
 
 <div alt="timeline">
+  <div alt="timenode">
+        <div alt="meta">2022.01.08 <a href="./ts_number">TS: 数字</a></div>
+        <div alt="body">
+            晨起开门雪满山，雪晴云淡日光寒。
+        </div>
+    </div>
     <div alt="timenode">
-        <div alt="meta">2022.01 ~ 2022.02 <a href="./ts_type_annotation">TS: 类型注释</a></div>
+        <div alt="meta">2022.01.02 <a href="./ts_type_annotation">TS: 类型注释</a></div>
         <div alt="body">
             人言落日是天涯，望极天涯不见家。
             已恨碧山相阻隔，碧山还被暮云遮。

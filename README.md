@@ -6,4 +6,7 @@
 
 3. More guide refer to: https://typora-dyzj-theme.vercel.app  
 
-4. Thanks for the amazing app [typora](https://typora.com.cn)
+4. Comment system support [twikoo](https://twikoo.js.org/quick-start.html#云函数部署)
+
+5. Thanks for the amazing app [typora](https://typora.com.cn)
+

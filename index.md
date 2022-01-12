@@ -6,7 +6,7 @@
 
 <div alt="timeline">
   <div alt="timenode">
-        <div alt="meta">2022.01.12 <a href="./ts_number">TS: 类型推断</a></div>
+        <div alt="meta">2022.01.12 <a href="./ts_inference">TS: 类型推断</a></div>
         <div alt="body">
               月也异当时，凄清照鬓丝。
         </div>
